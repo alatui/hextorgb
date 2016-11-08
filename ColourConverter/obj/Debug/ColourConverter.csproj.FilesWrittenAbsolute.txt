@@ -1,0 +1,5 @@
+/Users/fernandocisneros/Documents/sites_web/AndroidProjects/HexToRgb/ColourConverter/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/fernandocisneros/Documents/sites_web/AndroidProjects/HexToRgb/ColourConverter/bin/Debug/ColourConverter.dll.mdb
+/Users/fernandocisneros/Documents/sites_web/AndroidProjects/HexToRgb/ColourConverter/bin/Debug/ColourConverter.dll
+/Users/fernandocisneros/Documents/sites_web/AndroidProjects/HexToRgb/ColourConverter/obj/Debug/ColourConverter.dll
+/Users/fernandocisneros/Documents/sites_web/AndroidProjects/HexToRgb/ColourConverter/obj/Debug/ColourConverter.dll.mdb

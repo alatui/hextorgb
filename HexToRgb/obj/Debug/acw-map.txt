@@ -1,0 +1,4 @@
+HexToRgb.MainActivity, HexToRgb;md502fd9a0a170a2d5e17f8546881823422.MainActivity
+HexToRgb.MainActivity, HexToRgb, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md502fd9a0a170a2d5e17f8546881823422.MainActivity
+HexToRgb.MainActivity;md502fd9a0a170a2d5e17f8546881823422.MainActivity
+hextorgb.MainActivity;md502fd9a0a170a2d5e17f8546881823422.MainActivity
